@@ -3,34 +3,65 @@
   [
     {
       "id":1,
-      "title":"",
-      "description":"",
+      "title":"The Vegetable; or, From President to Postman",
+      "description":"Any man who doesn’t want to get on in the world, to make a million dollars, and maybe even park his toothbrush in the White House, hasn’t got as much to him as a good dog has—he’s nothing more or less than a vegetable , Such is the preface of F. Scott Fitzgerald’s only outing as a playwright. The action begins when 35-year-old railway clerk Jerry Frost gets drunk off a bootlegger’s potent hooch on the eve of Warren G. Harding’s presidential nomination. As a result, the second act takes place entirely within Jerry’s intoxicated fantasies, where he has become the new U.S. President and must deal with an assortment of colorful characters and situations. It is here where comic farce and political satire come to intriguing blows, as Fitzgerald finds opportunities to comment (discreetly or not) on the political climate of his day. When his pseudo-presidency goes all to pieces, Jerry’s fantasy comes crashing down, and as he comes to his senses in the third act, we find that his career aspirations have become decidedly less lofty.Though decidedly a minor work from The Great Gatsby’s author, The Vegetable finds him skewering the American Dream’s ethos in ways he would never do again. It’s lighthearted, naughty, irreverent, and does just the trick to escape—even if briefly—from our turbulent times. - Summary by Tomas Peter",
       "rating":3.4,
-      "genre":"kind of megure",
-      "timePublish":"date",
-      "comercialStat":"free or not",
+      "genre":"Comedy, Satire",
+      "timePublish":"2019-10-22",
+      "comercialStat":"free",
       "price":0.0,
-      "ImgUrl":"https://asudyhsd.example",
+      "ImgUrl":"https://ia601504.us.archive.org/15/items/thevegetable_1910_librivox/thevegetable_1910.jpg",
       "Listoftracks":[
         
         {
-          "title":"part 1",
-          "duration":"01:11",
-          "Url":"https://ena.example"
+          "title":"Act 1",
+          "duration":"01:06:49",
+          "Url":"https://ia801504.us.archive.org/15/items/thevegetable_1910_librivox/vegetable_1_fitzgerald_128kb.mp3"
         },
         {
-          "title":"part 1",
-          "duration":"01:11",
-          "Url":"https://ena.example"
+          "title":"Act 2",
+          "duration":"	01:12:52",
+          "Url":"http://www.archive.org/download/thevegetable_1910_librivox/vegetable_2_fitzgerald_128kb.mp3"
         },
         {
-          "title":"part 1",
-          "duration":"01:11",
-          "Url":"https://ena.example"
+          "title":"Act 3",
+          "duration":"00:37:50",
+          "Url":"http://www.archive.org/download/thevegetable_1910_librivox/vegetable_3_fitzgerald_128kb.mp3"
+        }
+        ]
+      
+    },
+     {
+      "id":2,
+      "title":"The Vegetable; or, From President to Postman",
+      "description":"Any man who doesn’t want to get on in the world, to make a million dollars, and maybe even park his toothbrush in the White House, hasn’t got as much to him as a good dog has—he’s nothing more or less than a vegetable , Such is the preface of F. Scott Fitzgerald’s only outing as a playwright. The action begins when 35-year-old railway clerk Jerry Frost gets drunk off a bootlegger’s potent hooch on the eve of Warren G. Harding’s presidential nomination. As a result, the second act takes place entirely within Jerry’s intoxicated fantasies, where he has become the new U.S. President and must deal with an assortment of colorful characters and situations. It is here where comic farce and political satire come to intriguing blows, as Fitzgerald finds opportunities to comment (discreetly or not) on the political climate of his day. When his pseudo-presidency goes all to pieces, Jerry’s fantasy comes crashing down, and as he comes to his senses in the third act, we find that his career aspirations have become decidedly less lofty.Though decidedly a minor work from The Great Gatsby’s author, The Vegetable finds him skewering the American Dream’s ethos in ways he would never do again. It’s lighthearted, naughty, irreverent, and does just the trick to escape—even if briefly—from our turbulent times. - Summary by Tomas Peter",
+      "rating":3.4,
+      "genre":"Comedy, Satire",
+      "timePublish":"2019-10-22",
+      "comercialStat":"free",
+      "price":0.0,
+      "ImgUrl":"https://ia601504.us.archive.org/15/items/thevegetable_1910_librivox/thevegetable_1910.jpg",
+      "Listoftracks":[
+        
+        {
+          "title":"Act 1",
+          "duration":"01:06:49",
+          "Url":"https://ia801504.us.archive.org/15/items/thevegetable_1910_librivox/vegetable_1_fitzgerald_128kb.mp3"
+        },
+        {
+          "title":"Act 2",
+          "duration":"	01:12:52",
+          "Url":"http://www.archive.org/download/thevegetable_1910_librivox/vegetable_2_fitzgerald_128kb.mp3"
+        },
+        {
+          "title":"Act 3",
+          "duration":"00:37:50",
+          "Url":"http://www.archive.org/download/thevegetable_1910_librivox/vegetable_3_fitzgerald_128kb.mp3"
         }
         ]
       
     }
+    
   ],
   "Uses":
   [
@@ -38,62 +69,92 @@
       "id":1,
       "name":"alison",
       "favourite":[
-        {
+      {
       "id":1,
-      "title":"",
-      "description":"",
+      "title":"The Vegetable; or, From President to Postman",
+      "description":"Any man who doesn’t want to get on in the world, to make a million dollars, and maybe even park his toothbrush in the White House, hasn’t got as much to him as a good dog has—he’s nothing more or less than a vegetable , Such is the preface of F. Scott Fitzgerald’s only outing as a playwright. The action begins when 35-year-old railway clerk Jerry Frost gets drunk off a bootlegger’s potent hooch on the eve of Warren G. Harding’s presidential nomination. As a result, the second act takes place entirely within Jerry’s intoxicated fantasies, where he has become the new U.S. President and must deal with an assortment of colorful characters and situations. It is here where comic farce and political satire come to intriguing blows, as Fitzgerald finds opportunities to comment (discreetly or not) on the political climate of his day. When his pseudo-presidency goes all to pieces, Jerry’s fantasy comes crashing down, and as he comes to his senses in the third act, we find that his career aspirations have become decidedly less lofty.Though decidedly a minor work from The Great Gatsby’s author, The Vegetable finds him skewering the American Dream’s ethos in ways he would never do again. It’s lighthearted, naughty, irreverent, and does just the trick to escape—even if briefly—from our turbulent times. - Summary by Tomas Peter",
       "rating":3.4,
-      "genre":"kind of megure",
-      "timePublish":"date",
-      "comercialStat":"free or not",
+      "genre":"Comedy, Satire",
+      "timePublish":"2019-10-22",
+      "comercialStat":"free",
       "price":0.0,
-      "ImgUrl":"https://asudyhsd.example",
+      "ImgUrl":"https://ia601504.us.archive.org/15/items/thevegetable_1910_librivox/thevegetable_1910.jpg",
       "Listoftracks":[
         
         {
-          "title":"part 1",
-          "duration":"01:11",
-          "Url":"https://ena.example"
+          "title":"Act 1",
+          "duration":"01:06:49",
+          "Url":"https://ia801504.us.archive.org/15/items/thevegetable_1910_librivox/vegetable_1_fitzgerald_128kb.mp3"
         },
         {
-          "title":"part 1",
-          "duration":"01:11",
-          "Url":"https://ena.example"
+          "title":"Act 2",
+          "duration":"	01:12:52",
+          "Url":"http://www.archive.org/download/thevegetable_1910_librivox/vegetable_2_fitzgerald_128kb.mp3"
         },
         {
-          "title":"part 1",
-          "duration":"01:11",
-          "Url":"https://ena.example"
+          "title":"Act 3",
+          "duration":"00:37:50",
+          "Url":"http://www.archive.org/download/thevegetable_1910_librivox/vegetable_3_fitzgerald_128kb.mp3"
         }
         ]
       
     },
-      {
+     {
       "id":2,
-      "title":"",
-      "description":"",
+      "title":"The Vegetable; or, From President to Postman",
+      "description":"Any man who doesn’t want to get on in the world, to make a million dollars, and maybe even park his toothbrush in the White House, hasn’t got as much to him as a good dog has—he’s nothing more or less than a vegetable , Such is the preface of F. Scott Fitzgerald’s only outing as a playwright. The action begins when 35-year-old railway clerk Jerry Frost gets drunk off a bootlegger’s potent hooch on the eve of Warren G. Harding’s presidential nomination. As a result, the second act takes place entirely within Jerry’s intoxicated fantasies, where he has become the new U.S. President and must deal with an assortment of colorful characters and situations. It is here where comic farce and political satire come to intriguing blows, as Fitzgerald finds opportunities to comment (discreetly or not) on the political climate of his day. When his pseudo-presidency goes all to pieces, Jerry’s fantasy comes crashing down, and as he comes to his senses in the third act, we find that his career aspirations have become decidedly less lofty.Though decidedly a minor work from The Great Gatsby’s author, The Vegetable finds him skewering the American Dream’s ethos in ways he would never do again. It’s lighthearted, naughty, irreverent, and does just the trick to escape—even if briefly—from our turbulent times. - Summary by Tomas Peter",
       "rating":3.4,
-      "genre":"kind of megure",
-      "timePublish":"date",
-      "comercialStat":"free or not",
+      "genre":"Comedy, Satire",
+      "timePublish":"2019-10-22",
+      "comercialStat":"free",
       "price":0.0,
-      "ImgUrl":"https://asudyhsd.example",
+      "ImgUrl":"https://ia601504.us.archive.org/15/items/thevegetable_1910_librivox/thevegetable_1910.jpg",
       "Listoftracks":[
         
         {
-          "title":"part 1",
-          "duration":"01:11",
-          "Url":"https://ena.example"
+          "title":"Act 1",
+          "duration":"01:06:49",
+          "Url":"https://ia801504.us.archive.org/15/items/thevegetable_1910_librivox/vegetable_1_fitzgerald_128kb.mp3"
         },
         {
-          "title":"part 1",
-          "duration":"01:11",
-          "Url":"https://ena.example"
+          "title":"Act 2",
+          "duration":"	01:12:52",
+          "Url":"http://www.archive.org/download/thevegetable_1910_librivox/vegetable_2_fitzgerald_128kb.mp3"
         },
         {
-          "title":"part 1",
-          "duration":"01:11",
-          "Url":"https://ena.example"
+          "title":"Act 3",
+          "duration":"00:37:50",
+          "Url":"http://www.archive.org/download/thevegetable_1910_librivox/vegetable_3_fitzgerald_128kb.mp3"
+        }
+        ]
+      
+    },
+     {
+      "id":3,
+      "title":"The Vegetable; or, From President to Postman",
+      "description":"Any man who doesn’t want to get on in the world, to make a million dollars, and maybe even park his toothbrush in the White House, hasn’t got as much to him as a good dog has—he’s nothing more or less than a vegetable , Such is the preface of F. Scott Fitzgerald’s only outing as a playwright. The action begins when 35-year-old railway clerk Jerry Frost gets drunk off a bootlegger’s potent hooch on the eve of Warren G. Harding’s presidential nomination. As a result, the second act takes place entirely within Jerry’s intoxicated fantasies, where he has become the new U.S. President and must deal with an assortment of colorful characters and situations. It is here where comic farce and political satire come to intriguing blows, as Fitzgerald finds opportunities to comment (discreetly or not) on the political climate of his day. When his pseudo-presidency goes all to pieces, Jerry’s fantasy comes crashing down, and as he comes to his senses in the third act, we find that his career aspirations have become decidedly less lofty.Though decidedly a minor work from The Great Gatsby’s author, The Vegetable finds him skewering the American Dream’s ethos in ways he would never do again. It’s lighthearted, naughty, irreverent, and does just the trick to escape—even if briefly—from our turbulent times. - Summary by Tomas Peter",
+      "rating":3.4,
+      "genre":"Comedy, Satire",
+      "timePublish":"2019-10-22",
+      "comercialStat":"free",
+      "price":0.0,
+      "ImgUrl":"https://ia601504.us.archive.org/15/items/thevegetable_1910_librivox/thevegetable_1910.jpg",
+      "Listoftracks":[
+        
+        {
+          "title":"Act 1",
+          "duration":"01:06:49",
+          "Url":"https://ia801504.us.archive.org/15/items/thevegetable_1910_librivox/vegetable_1_fitzgerald_128kb.mp3"
+        },
+        {
+          "title":"Act 2",
+          "duration":"	01:12:52",
+          "Url":"http://www.archive.org/download/thevegetable_1910_librivox/vegetable_2_fitzgerald_128kb.mp3"
+        },
+        {
+          "title":"Act 3",
+          "duration":"00:37:50",
+          "Url":"http://www.archive.org/download/thevegetable_1910_librivox/vegetable_3_fitzgerald_128kb.mp3"
         }
         ]
       
@@ -102,27 +163,29 @@
         "purchases":"none",
         "acctype":"ordinary",
         "Expiry":"12",
-        "followers":300
+        "followers":300,
+        "Imgurl":"www.google.com"
     }
     ],
     "courses":
     [
       {
         "id":1,
-        "type":"programming",
+        "type":"introduction into PS",
         "rating":4.3,
         "instructor":"jone rake",
         "duration":"",
+        "ImgCover":"https://dt6wuqe2x3po3.cloudfront.net/images/hero/ps-promo-icon2-980x529.jpg?1555959082",
         "Tracks":[
           {
             "id":1,
-            "partname":"none",
-            "trackurl":"https://jdg.com"
+            "partname":"intro 1",
+            "trackurl":"https://www.youtube.com/watch?v=ysBotsFUIKM&list=PL9Nv2rcwDx37SDKW63FAHbNKQMFBIY-sg&index=1"
           },
            {
             "id":2,
-            "partname":"none",
-            "trackurl":"https://jdg.com"
+            "partname":"intro 2",
+            "trackurl":"https://www.youtube.com/watch?v=dxO9xoeL5WQ&list=PL9Nv2rcwDx37SDKW63FAHbNKQMFBIY-sg&index=4"
           }]
       }
       ]
